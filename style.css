@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.left {
+  background-color: dodgerblue;
+  color: white;
+  width: 35%;
+  float: left;
+  padding: 30px;
+  height: 500px;
+}
+
+.right {
+  width: 55%;
+  float: left;
+  padding: 30px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+label {
+  font-size: 15px;
+}
+
+input {
+  width: 90%;
+  padding: 10px;
+  margin-top: 5px;
+  background-color: whitesmoke;
+  border: none;
+}
+
+textarea {
+  width: 90%;
+  height: 80px;
+  padding: 10px;
+  background-color: whitesmoke;
+  border: none;
+}
+
+button {
+  background-color: dodgerblue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  margin-top: 10px;
+}
